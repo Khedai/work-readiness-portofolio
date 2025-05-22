@@ -48,9 +48,16 @@ The final CV clearly presents who I am as an aspiring IT professional and is rea
 ---
 
 ##  CV Submission
-**Evidence:** *(screenshot of submission confirmation on Blackboard)*  
-**Reflection (STAR):**  
-- **Situation:**  
-- **Task:**  
-- **Action:**  
-- **Result:**  
+**Evidence:* [Click here to view my CV.](https://github.com/Khedai/work-readiness-portofolio/blob/main/Screenshot%20(88).png)  
+Reflection (STAR Technique)
+Situation:
+As part of the final steps of the PRP370 module, we were required to submit a completed CV on Blackboard.
+
+Task:
+My objective was to ensure my CV was well-structured, clearly presented, and met the requirements of professional formatting for potential employers.
+
+Action:
+I revised my CV based on feedback and aligned it with the work readiness training modules. I then exported it as a PDF and uploaded it to Blackboard before the deadline.
+
+Result:
+Submitting my CV gave me a sense of preparedness for job applications. It reinforced the importance of maintaining an updated, professional resume and showed me how my current studies are building toward employability.
