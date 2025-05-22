@@ -11,7 +11,7 @@
 ---
 
 ##  Skills and Interests
-**Evidence:** ![Career Quiz Result](https://github.com/Khedai/work-readiness-portofolio/commit/ffe304e5216519c4ebf47ab351a0111abdba2b27) 
+**Evidence:** ![Career Quiz Result](https://github.com/Khedai/work-readiness-portofolio/blob/main/Screenshot%20(86).png) 
 **Reflection (STAR):**  
 - **Situation:**  
 - **Task:**  
