@@ -21,7 +21,7 @@
 ---
 
 ##  Personality Assessment
-**Evidence:** *(screenshot or result from a personality test like 16Personalities)*  
+**Evidence:**  ![Personality Assessment Result](https://github.com/Khedai/work-readiness-portofolio/blob/main/Screenshot%20(87).png)
 **Reflection (STAR):**  
 - **Situation:**  
 - **Task:**  
