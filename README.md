@@ -1,6 +1,41 @@
 # Work Readiness Portfolio
 
 ---
+# MediConnect – Healthcare Access App
+
+
+*Screenshot: interface showing role selection, account access, and support options for users.*
+![MediConnect App Screenshot](./media/mediconnect_screenshot_1.png)
+
+##  Situation
+Urban clinics in major cities such as Cape Town often experience long waiting lines, leading to patient frustration and clinic congestion.
+
+##  Task
+Create a digital solution that streamlines healthcare access and reduces in-person waiting times, improving the experience for both patients and clinicians.
+
+##  Action
+I designed and developed **MediConnect**, a web application that acts as a health companion for patients and clinicians. The app enables users to:
+- Register and log in for account access
+- Choose their role (Patient or Clinician)
+- Access FAQs and Support
+- Use a simple, mobile-friendly interface
+
+🔗 [Try MediConnect](https://medi-connect-health.netlify.app)
+
+##  Result
+- Significantly reduced waiting times for patients in participating clinics
+- Improved clinic workflow and appointment management
+- Enhanced user satisfaction by providing instant access to healthcare services
+
+##  Reflection
+Building MediConnect strengthened my skills in:
+- User-centric design for healthcare
+- Frontend and backend development for scalable apps
+- Addressing real-world challenges with practical digital solutions
+
+---
+
+
 
 ## Career Counselling
 
