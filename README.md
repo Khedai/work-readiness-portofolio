@@ -5,7 +5,7 @@
 
 
 *Screenshot: interface showing role selection, account access, and support options for users.*
-![MediConnect App Screenshot](./media/mediconnect_screenshot_1.png)
+![MediConnect App Screenshot](https://github.com/Khedai/work-readiness-portofolio/blob/main/Screenshot%20(151).png)  
 
 ##  Situation
 Urban clinics in major cities such as Cape Town often experience long waiting lines, leading to patient frustration and clinic congestion.
