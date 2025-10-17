@@ -38,7 +38,7 @@ Building MediConnect strengthened my skills in:
 
 ### Ayabonga Ndabambi — Personal Portfolio Website
 
- *Screenshot: interface showing role selection, account access, and support options for users.*
+ *Screenshot: interface showing the welcome page with a hero section with navigation links to contacts and about us pages.*
 ![Portfolio Site Screenshot](https://github.com/Khedai/work-readiness-portofolio/blob/main/Screenshot%20(158).png)  
 
 🔗 [Preview Portofolio Site](https://ayabongadesigner.netlify.app)
