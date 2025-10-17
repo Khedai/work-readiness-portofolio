@@ -36,6 +36,29 @@ Building MediConnect strengthened my skills in:
 ---
 
 
+### Ayabonga Ndabambi — Personal Portfolio Website
+
+ *Screenshot: interface showing role selection, account access, and support options for users.*
+![Portfolio Site Screenshot](https://github.com/Khedai/work-readiness-portofolio/blob/main/Screenshot%20(158).png)  
+
+🔗 [Preview Portofolio Site](https://ayabongadesigner.netlify.app)
+
+Brief: A clean, modern personal portfolio site with a strong hero section that showcases the designer's name, services, and call-to-action. Built and deployed as a responsive, accessible web presence to showcase projects, about and contact information.
+
+STAR summary
+- Situation
+  - A designer/developer needed a professional, responsive portfolio to present their work and attract clients/employers.
+- Task
+  - Design and implement astriking homepage (hero), project pages, navigation and contact flow that communicates the brand and converts visitors to leads.
+- Action
+  - Researched similar portfolios and created wireframes to define information hierarchy.
+  - Designed a bold hero with clear typography and a primary call-to-action to "View My Work".
+  - Implemented a responsive layout (mobile → desktop) and accessible navigation across "Home", "About", "Projects", and "Contact".
+  - Optimized images and assets for fast load times and good Core Web Vitals.
+  - Added SEO-friendly meta tags and structured content for better discoverability.
+  - Deployed to Netlify for a simple CI/CD workflow and continuous hosting.
+- Result
+  - Successfully launched a live portfolio that clearly communicates skills and work samples.
 
 ## Career Counselling
 
